@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hari Hud.
-- 👀 I’m interested in Software development.
-- 🌱 I’m currently learning AI technologies.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning AI Technologies.
 - 💞️ I’m looking to collaborate on the Opensource projects.
 - 📫 How to reach me hudharibhau@gmail.com
 
