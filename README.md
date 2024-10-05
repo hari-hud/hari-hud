@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Hari Hud
-- 👀 I’m interested in Automating.
-- 🌱 I’m currently learning DevOps technologies.
-- 💞️ I’m looking to collaborate on Opensources Project such as AWX, Kubespray
+- 👋 Hi, I’m Hari Hud.
+- 👀 I’m interested in Software development.
+- 🌱 I’m currently learning AI technologies.
+- 💞️ I’m looking to collaborate on the Opensource projects.
 - 📫 How to reach me hudharibhau@gmail.com
 
 <!---
